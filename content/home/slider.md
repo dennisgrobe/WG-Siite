@@ -28,31 +28,31 @@ height = "850px"
 
 
 [[item]]
-  title = "Unser WG-Motto: Zuhause ist kein Ort, sondern ein Gefühl. "
+  title = "Unser WG-Motto: Good food, good mood!"
   content = ""
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "IMG_8611.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "IMG_20211107_193018784.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = ""
-  content = "Wir sind schon seit längerer Zeit gut befreundet und haben schon viel zusammen erlebt, das uns verbindet und zum Entschluss geführt hat, dass wir endlich zusammen wohnen möchten. :hear_no_evil: "
+  content = "Wir sind schon seit längerer Zeit gut befreundet und haben schon viel zusammen erlebt. Das verbindet uns und hat uns zu dem Entschluss geführt hat, dass wir in einem gemeinsamen Zuhause Raum für neue Erinnerungen schaffen wollen. :hear_no_evil: "
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "IMG_8612.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "IMG_8799.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
   
   [[item]]
   title = ""
-  content = "Wir sind aufgestellte und kommunikative junge Erwachsene, die gerne gemeinsam Sport treiben oder den Abend mit Kochen und einem gemütlichen Dinner ausklingen lassen.   :surfer: :hamburger: "
+  content = "Wir sind aufgeschlossene und kommunikative junge Erwachsene, die gerne gemeinsam wandern gehen, Fondue über dem Feuer am Uetliberg kochen oder den Abend mit Gesellschaftsspielen und einem gemütlichen Dinner ausklingen lassen. "
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "IMG_8613.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "PXL_20211203_193857807.NIGHT.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
   
  
@@ -72,7 +72,7 @@ height = "850px"
   content = "Nun ist die Entscheidung bei Ihnen. Lernen Sie uns besser kennen, indem Sie uns zu einer Besichtigung einladen oder heissen Sie uns in Ihrer Mietwohnung als künftige Mieter willkommen. :heart_eyes:"
   align = "left"
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "IMG_6096.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "IMG_6428.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.  
   
   

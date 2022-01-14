@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Dennis Grobe
+name: Nele Bockisch
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Economics & Data Science Student
+role: Business Administration Studentin
 
 # Organizations/Affiliations
 organizations:
@@ -53,7 +53,7 @@ user_groups:
 - Visitors
 ---
 
-Im Treppenhaus wird man Dennis oft in Fahrradmontur antreffen. Sein Drahtesel bringt ihn fast überall hin, wo er möchte. Sei es in seine Heimat zu seinem Vater nach Eglisau am Rhein oder einmal um den Zürichsee in Lichtgeschwindigkeit. Doch auch neben dem Radfahren ist er sportlich sehr vielseitig engagiert.
+Wenn Nele nicht gerade am Studieren ist, findet sie die Balance gern beim Priouetten Training im Jazz Dance oder beim Hip Hop. Ansonsten trifft man sie meistens in der Küche beim Kochen an. Ob Pasta, Pesto, Spätzle, Ingwershots oder Marmelade. Sie kocht alles gern 'homemade'. Dafür züchtet gern Tomaten und Sprossen im selbstgebauten Hochbeet.
 
-Sein Motto ist eigentlich bei allem das gleiche: warum einfach, wenn es auch komplex geht? Seinen Perfektionismus lebt er gerne auch auf kulinarische Weise in der Küche aus, was man den Bäuchen seiner bisherigen WG-Mitbewohner ansieht. 
+Nele ist zusammen mit ihrem Bruder in einem kleinen Dorf aufgewachsen und schätzt daher eine gute Nachbarschaft. Für ein Schwätzchen ist sie immer zu haben. Ausserdem verteilt sie gern ihre Marmeladen oder hilft gern mit ihrer Bosch Professional aus. 
 
