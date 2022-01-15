@@ -18,35 +18,35 @@ subtitle = ""
   icon = "weight-hanging"
   icon_pack = "fas"
   name = "Hilfe beim Tragen von schweren Lasten "
-  description = "Tino & Dennis"
-  
-[[feature]]
-  icon = "guitar"
-  icon_pack = "fas"
-  name = "Musikalische Darbietung auf Wunsch"
-  description = "Dennis"  
+  description = "Ananya"
   
 [[feature]]
   icon = "grin-alt"
   icon_pack = "far"
-  name = "Lächeln schenken im Treppenhaus bereits in frühen Morgendstunden"
-  description = "Tino & Dennis"
+  name = "Lächeln schenken im Treppenhaus bereits in den frühen Morgenstunden"
+  description = "Nele & Ananya"
+  
+  [[feature]]
+  icon = "pepper-hot"
+  icon_pack = "fas"
+  name = "Indisches Essen wie im Restaurant"
+  description = "Ananya" 
 
 [[feature]]
-  icon = "running"
+  icon = "compass"
   icon_pack = "fas"
-  name = "Sport und Trainingstipps"
-  description = "Sportlehrer Tino"
+  name = "Reisetipps & Tricks"
+  description = "Nele & Ananya"
   
   [[feature]]
-  icon = "chart-line"
+  icon = "egg"
   icon_pack = "fas"
-  name = "Börsentipps"
-  description = "Dennis"
+  name = "Aushilfe bei zu wenig Eiern für das Frühstücksrührei"
+  description = "Nele & Ananya"
   
   [[feature]]
-  icon = "carrot"
+  icon = "seedling"
   icon_pack = "fas"
-  name = "Gemüse und Obst vom Land"
-  description = "Tino"
+  name = "frischer Bio-Salat aus dem Hochbeet"
+  description = "Nele"
 +++

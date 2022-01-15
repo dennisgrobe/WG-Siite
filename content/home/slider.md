@@ -18,7 +18,7 @@ height = "850px"
 
 [[item]]
   title = "Herzlich Willkommen auf unserer WG-Website"
-  content = "Wir, zwei junge und aktive Kollegen, sind auf der Suche nach einer Wohnung zur Verwirklichung eines schon langen dagewesenen Traums einer gemeinsamen Wohngemeinschaft im wunderschönen Zürich. :house_with_garden: :smiley:"
+  content = "Wir, Ananya und Nele, sind auf der Suche nach einer gemeinsamen Wohngemeinschaft, um langfristig ein Zuhause mitten im Herzen des wunderschönen Zürich für viele schöne Momente zu schaffen. :house_with_garden: :smiley:"
   align = "center"  # Choose `center`, `left`, or `right`.
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -38,7 +38,7 @@ height = "850px"
 
 [[item]]
   title = ""
-  content = "Wir sind schon seit längerer Zeit gut befreundet und haben schon viel zusammen erlebt. Das verbindet uns und hat uns zu dem Entschluss geführt hat, dass wir in einem gemeinsamen Zuhause Raum für neue Erinnerungen schaffen wollen. :hear_no_evil: "
+  content = "Wir sind schon seit längerer Zeit gut befreundet und haben schon viel zusammen erlebt. Das verbindet uns und hat uns zu dem Entschluss geführt, dass wir in einem gemeinsamen Zuhause Raum für neue Erinnerungen schaffen wollen. :hear_no_evil: "
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
@@ -48,7 +48,7 @@ height = "850px"
   
   [[item]]
   title = ""
-  content = "Wir sind aufgeschlossene und kommunikative junge Erwachsene, die gerne gemeinsam wandern gehen, Fondue über dem Feuer am Uetliberg kochen oder den Abend mit Gesellschaftsspielen und einem gemütlichen Dinner ausklingen lassen. "
+  content = "Wir sind aufgeschlossene und kommunikative junge Erwachsene, die gerne gemeinsam wandern gehen, Fondué über dem Feuer am Uetliberg kochen oder den Abend mit Gesellschaftsspielen und einem gemütlichen Dinner ausklingen lassen. "
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
@@ -63,7 +63,7 @@ height = "850px"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "305A4161.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "IMG_7228_LI.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.  
   
   
