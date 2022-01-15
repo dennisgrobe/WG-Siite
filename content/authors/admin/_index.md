@@ -53,7 +53,7 @@ user_groups:
 - Visitors
 ---
 
-Wenn Nele nicht gerade am Studieren ist, findet sie die Balance gern beim Pirouetten Training im Jazz Dance oder beim Hip Hop. Ansonsten trifft man sie meistens in der Küche beim Kochen an. Ob Pasta, Pesto, Spätzle, Ingwershots oder Marmelade. Sie kocht alles gern 'homemade'. Dafür züchtet gern Tomaten und Sprossen im selbstgebauten Hochbeet.
+Wenn Nele nicht gerade am Studieren ist, findet sie die Balance gern beim Pirouetten Training im Jazz Dance oder beim Hip Hop. Ansonsten trifft man sie meistens in der Küche beim Kochen an. Ob Pasta, Pesto, Spätzle, Ingwershots oder Marmelade. Sie kocht alles gern 'homemade'. Dafür züchtet sie gern Tomaten und Sprossen im selbstgebauten Hochbeet.
 
 Nele ist zusammen mit ihrem Bruder in einem kleinen Dorf aufgewachsen und schätzt daher eine gute Nachbarschaft. Für ein Schwätzchen ist sie immer zu haben. Ausserdem verteilt sie gern ihre Marmeladen oder hilft gern mit ihrer Bosch Professional aus. 
 
